@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "work1", "work1\work1.pyproj", "{E5A31EE0-B2BE-4416-9056-9C18597D8101}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "work1", "work1\Work1.pyproj", "{E5A31EE0-B2BE-4416-9056-9C18597D8101}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Work2", "Work2\Work2.pyproj", "{16262E19-4FF4-4A8D-81FC-FDAFA3606ADC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{E5A31EE0-B2BE-4416-9056-9C18597D8101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E5A31EE0-B2BE-4416-9056-9C18597D8101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16262E19-4FF4-4A8D-81FC-FDAFA3606ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16262E19-4FF4-4A8D-81FC-FDAFA3606ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
