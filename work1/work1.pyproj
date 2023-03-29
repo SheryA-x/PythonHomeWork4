@@ -5,7 +5,7 @@
     <ProjectGuid>e5a31ee0-b2be-4416-9056-9c18597d8101</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>work1.py</StartupFile>
+    <StartupFile>Work1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="work1.py" />
+    <Compile Include="Work1.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
